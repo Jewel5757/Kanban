@@ -1,0 +1,35 @@
+.drop {
+	width: 150px;
+    border:  1px solid black;
+    height: 50px;
+
+}
+
+.dropdown {
+	width: 150px;
+    background: #fff;
+    color: #000;
+    margin-bottom: 7px;
+    padding: 8px;
+    border-radius: 8px;
+	position: relative;
+	text-align: end;
+}
+.dropdownList {
+	width: 150px;
+	position: absolute;
+    background: #fff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    border-radius: 8px;
+}
+.title:hover {
+	cursor: pointer;
+	background: #5db5fd;
+	
+}
+.title {
+    padding: 10px;
+    margin: 0;
+}
